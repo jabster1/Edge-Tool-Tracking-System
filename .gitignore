@@ -5,4 +5,4 @@ __pycache__/
 *.onnx
 datasets/
 .DS_Store
-runs/
+industrial-tools-v1.zip
