@@ -1,0 +1,10 @@
+{
+  "backend": "Python (Ultralytics YOLO / PyTorch)",
+  "model": "best.pt",
+  "imgsz": 512,
+  "frames": 100,
+  "avg_inference_ms": 104.6269,
+  "fps": 9.5578,
+  "min_inference_ms": 85.3732,
+  "max_inference_ms": 406.574
+}

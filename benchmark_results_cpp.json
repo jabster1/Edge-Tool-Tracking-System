@@ -1,0 +1,10 @@
+{
+  "backend": "C++ ONNX Runtime (CPU)",
+  "model": "best.onnx",
+  "imgsz": 512,
+  "frames": 100,
+  "avg_inference_ms": 505.8573,
+  "fps": 1.9768,
+  "min_inference_ms": 493.1632,
+  "max_inference_ms": 587.3098
+}
